@@ -4,6 +4,12 @@ Daily Calendar is an Android app that turns an old phone or tablet into a simple
 
 The app is designed for kiosk-style use on a desk, nightstand, wall mount, or tablet stand. It can show a full-day overview or a zoomed view, supports light and dark mode, and remembers the user's display preferences.
 
+## Important Links
+
+- [Privacy Policy](https://rsholm.github.io/privacy-policy)
+- [Terms of Service](https://rsholm.github.io/terms-of-service)
+- [Google site verification file](https://rsholm.github.io/google5f07df329ca9d18d.html)
+
 ## App Information
 
 | Item | Details |
