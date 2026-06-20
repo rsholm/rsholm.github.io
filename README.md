@@ -8,6 +8,7 @@ The app is designed for kiosk-style use on a desk, nightstand, wall mount, or ta
 
 - [Privacy Policy](https://dailycalendar.info/privacy-policy)
 - [Terms of Service](https://dailycalendar.info/terms-of-service)
+- [Account and Data Deletion](https://dailycalendar.info/account-deletion)
 
 ## App Information
 
