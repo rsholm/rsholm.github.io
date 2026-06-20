@@ -6,9 +6,8 @@ The app is designed for kiosk-style use on a desk, nightstand, wall mount, or ta
 
 ## Important Links
 
-- [Privacy Policy](https://rsholm.github.io/privacy-policy)
-- [Terms of Service](https://rsholm.github.io/terms-of-service)
-- [Google site verification file](https://rsholm.github.io/google5f07df329ca9d18d.html)
+- [Privacy Policy](https://dailycalendar.info/privacy-policy)
+- [Terms of Service](https://dailycalendar.info/terms-of-service)
 
 ## App Information
 
